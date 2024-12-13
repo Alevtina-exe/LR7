@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/darya/Документы/453502/ОАиП/LR7/Task_3/build",
+  "command": "/usr/bin/c++    -fsanitize=thread -g -o CMakeFiles/Task_3.dir/functions.cpp.o -c /home/darya/Документы/453502/ОАиП/LR7/Task_3/functions.cpp",
+  "file": "/home/darya/Документы/453502/ОАиП/LR7/Task_3/functions.cpp",
+  "output": "CMakeFiles/Task_3.dir/functions.cpp.o"
+},
+{
+  "directory": "/home/darya/Документы/453502/ОАиП/LR7/Task_3/build",
+  "command": "/usr/bin/c++    -fsanitize=thread -g -o CMakeFiles/Task_3.dir/ivalidation.cpp.o -c /home/darya/Документы/453502/ОАиП/LR7/Task_3/ivalidation.cpp",
+  "file": "/home/darya/Документы/453502/ОАиП/LR7/Task_3/ivalidation.cpp",
+  "output": "CMakeFiles/Task_3.dir/ivalidation.cpp.o"
+},
+{
+  "directory": "/home/darya/Документы/453502/ОАиП/LR7/Task_3/build",
+  "command": "/usr/bin/c++    -fsanitize=thread -g -o CMakeFiles/Task_3.dir/main.cpp.o -c /home/darya/Документы/453502/ОАиП/LR7/Task_3/main.cpp",
+  "file": "/home/darya/Документы/453502/ОАиП/LR7/Task_3/main.cpp",
+  "output": "CMakeFiles/Task_3.dir/main.cpp.o"
+},
+{
+  "directory": "/home/darya/Документы/453502/ОАиП/LR7/Task_3/build",
+  "command": "/usr/bin/c++    -fsanitize=thread -g -o CMakeFiles/Task_3.dir/solution.cpp.o -c /home/darya/Документы/453502/ОАиП/LR7/Task_3/solution.cpp",
+  "file": "/home/darya/Документы/453502/ОАиП/LR7/Task_3/solution.cpp",
+  "output": "CMakeFiles/Task_3.dir/solution.cpp.o"
+}
+]

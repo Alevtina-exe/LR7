@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/darya/Документы/453502/ОАиП/LR7/Task_5/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/Task_5.dir/functions.cpp.o -c /home/darya/Документы/453502/ОАиП/LR7/Task_5/functions.cpp",
+  "file": "/home/darya/Документы/453502/ОАиП/LR7/Task_5/functions.cpp",
+  "output": "CMakeFiles/Task_5.dir/functions.cpp.o"
+},
+{
+  "directory": "/home/darya/Документы/453502/ОАиП/LR7/Task_5/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/Task_5.dir/main.cpp.o -c /home/darya/Документы/453502/ОАиП/LR7/Task_5/main.cpp",
+  "file": "/home/darya/Документы/453502/ОАиП/LR7/Task_5/main.cpp",
+  "output": "CMakeFiles/Task_5.dir/main.cpp.o"
+},
+{
+  "directory": "/home/darya/Документы/453502/ОАиП/LR7/Task_5/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/Task_5.dir/solution.cpp.o -c /home/darya/Документы/453502/ОАиП/LR7/Task_5/solution.cpp",
+  "file": "/home/darya/Документы/453502/ОАиП/LR7/Task_5/solution.cpp",
+  "output": "CMakeFiles/Task_5.dir/solution.cpp.o"
+}
+]

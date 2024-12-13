@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=thread -g CMakeFiles/Task_3.dir/functions.cpp.o CMakeFiles/Task_3.dir/ivalidation.cpp.o CMakeFiles/Task_3.dir/main.cpp.o CMakeFiles/Task_3.dir/solution.cpp.o -o Task_3 

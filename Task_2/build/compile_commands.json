@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/darya/Документы/453502/ОАиП/LR7/Task_2/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/Task_2.dir/functions.cpp.o -c /home/darya/Документы/453502/ОАиП/LR7/Task_2/functions.cpp",
+  "file": "/home/darya/Документы/453502/ОАиП/LR7/Task_2/functions.cpp",
+  "output": "CMakeFiles/Task_2.dir/functions.cpp.o"
+},
+{
+  "directory": "/home/darya/Документы/453502/ОАиП/LR7/Task_2/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/Task_2.dir/iofuncs.cpp.o -c /home/darya/Документы/453502/ОАиП/LR7/Task_2/iofuncs.cpp",
+  "file": "/home/darya/Документы/453502/ОАиП/LR7/Task_2/iofuncs.cpp",
+  "output": "CMakeFiles/Task_2.dir/iofuncs.cpp.o"
+},
+{
+  "directory": "/home/darya/Документы/453502/ОАиП/LR7/Task_2/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/Task_2.dir/main.cpp.o -c /home/darya/Документы/453502/ОАиП/LR7/Task_2/main.cpp",
+  "file": "/home/darya/Документы/453502/ОАиП/LR7/Task_2/main.cpp",
+  "output": "CMakeFiles/Task_2.dir/main.cpp.o"
+},
+{
+  "directory": "/home/darya/Документы/453502/ОАиП/LR7/Task_2/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/Task_2.dir/solution.cpp.o -c /home/darya/Документы/453502/ОАиП/LR7/Task_2/solution.cpp",
+  "file": "/home/darya/Документы/453502/ОАиП/LR7/Task_2/solution.cpp",
+  "output": "CMakeFiles/Task_2.dir/solution.cpp.o"
+}
+]
