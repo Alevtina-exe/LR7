@@ -1,7 +1,7 @@
-int exit_status_input();
-int input_num(int* num, bool& otr);
+long long exit_status_input();
+long long* input_num(bool& otr, int& N);
 void Task_3_Solution();
-int int_input();
+long long int_input(bool min);
 bool sign_input();
-void operation(int* n1, int* n2);
-void comp(int* n1, int* n2);
+void operation(long long* n1, long long* n2);
+void comp(long long* n1, long long* n2);

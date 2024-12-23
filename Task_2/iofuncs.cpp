@@ -1,5 +1,6 @@
 #include <iostream>
-extern int* N;
+extern int N1, N2;
+bool o1, o2;
 int exit_status_input() {
     int a;
     while (true) {
@@ -12,10 +13,16 @@ int exit_status_input() {
         else std::cout << "Неверный формат ввода.\n";
     }
 }
-int input_num(int* num) {
+int* input_num(int& N, bool& otr) {
     while(true) {
+        int* num = new int[500]{0};
         int i = 0;
+        otr = false;
         char a = getchar();
+        if(a == '-') {
+            otr = true;
+            a = getchar();
+            }
         while(a != '\n') { //O(n), где n - количество символов до следующего перевода строки
             if((a > 47 && a < 58) || (a == '-' && !i)) {
                 num[i] = a - 48;
@@ -27,17 +34,18 @@ int input_num(int* num) {
             }
             a = getchar();
         }
-        if(i > (num[0] == -3)) {
-            return i;
+        if(i) {
+            N = i;
+            return num;
         }
         else {
             if(i) std::cout << "Неверный формат ввода." << std::endl;
+            delete[] num;
         }
     }
 }
-void num_cout(int* num, int n) {
-    int i = N[n] - 1;
-    bool otr = num[i];
+void num_cout(int* num, int& N, bool otr) {
+    int i = N - 1;
     std::cout << num[i];
     for(i--; i >=0; i--) { //O(i)
         if(otr) {

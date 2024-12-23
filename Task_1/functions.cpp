@@ -39,6 +39,7 @@ void num_transform(int* num, int N) {
     if(num[0]) {
         std::cout << "-";
     }
+    if(n2 == -1) std::cout << 0;
     while(n2 >= 0) { //O(n2)
         std::cout << NUM[n2];
         n2--;
